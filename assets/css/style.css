@@ -27,6 +27,21 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  width: 50%;
+}
+
+.header-highlight {
+  background-color: #d3d3d3;
+}
+
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
